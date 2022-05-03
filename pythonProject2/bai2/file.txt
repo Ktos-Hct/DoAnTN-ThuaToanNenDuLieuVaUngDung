@@ -1,0 +1,4 @@
+Name: Binh
+ID: 0001
+Age: 15
+Class: 11C
